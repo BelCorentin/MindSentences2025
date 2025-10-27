@@ -6,7 +6,7 @@ import pandas as pd
 from pathlib import Path
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "XXX"  # Replace with your actual OpenAI API key
 
 
 def main():
